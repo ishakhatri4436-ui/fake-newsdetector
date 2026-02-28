@@ -1,7 +1,6 @@
 streamlit
-pandas
 joblib
-scikit-learn
+pandas
 plotly
-pillow
-pytesseract
+scikit-learn
+streamlit-lottie
